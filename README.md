@@ -1,4 +1,3 @@
-# COMP125-Lesson13
+# COMP125-Assignment4
 
-## CreateJS with TypeScript
-
+## JavaScript Banner Ad
